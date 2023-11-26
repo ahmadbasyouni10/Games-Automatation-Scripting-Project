@@ -1,4 +1,4 @@
-# Scripting-Project
+# Scripting/Automation Project
 This project automates/scripts using python the compilation and organization of game source code files written in Go. It searches for directories containing the keyword "game," compiles the Go code within, and organizes the compiled games into a target directory.
 
 ## Installation
