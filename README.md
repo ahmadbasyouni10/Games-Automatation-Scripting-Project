@@ -12,7 +12,7 @@ This passes the two arguments which are the source (where we are looking=data), 
 python get_game_data.py data target
 ```
 
-##Screenshots
+## Screenshots
 ![image](https://github.com/ahmadbasyouni10/Scripting-Project/assets/120362910/4c0ec71d-8f61-472f-9233-92440b7baca2)
 
 Directory Path should be created, with the games compiled in it
