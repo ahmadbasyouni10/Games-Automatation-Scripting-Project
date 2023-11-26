@@ -6,7 +6,8 @@ This project automates/scripts using python the compilation and organization of 
 - Go installed (required for compiling Go code) - https://go.dev/
 
 ## Usage
-Clone the repository to your local machine or download zip folder, then in terminal run this command (cla). This passes the two arguments which are the source (where we are looking) and the target (where we want to put the new dir).
+Clone the repository to your local machine or download zip folder, then in terminal run this command (cla). 
+This passes the two arguments which are the source (where we are looking=data), and the target (where we want to put the new dir=target).
 ```
 python get_game_data.py data target
 ```
