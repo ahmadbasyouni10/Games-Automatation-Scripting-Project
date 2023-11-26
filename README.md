@@ -17,7 +17,7 @@ python get_game_data.py data target
 
 
 
-Directory Path should be created, with the games compiled in it
+Target Directory should be created, with the games compiled in it
 
 
 ![image](https://github.com/ahmadbasyouni10/Scripting-Project/assets/120362910/02e73da2-d8db-4a9b-80f7-3b0aa6d84227)
